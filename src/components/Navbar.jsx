@@ -4,7 +4,7 @@ import "../styles/Navbar.css"
 const Navbar = () => {
   return (
     <nav>
-        <span>DE</span>
+        <span>D</span>
         <ul>
             <li>Home</li>
             <li>Latest</li>
