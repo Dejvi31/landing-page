@@ -1,6 +1,6 @@
 * {
   margin: 0;
-  padding: 0;
+  padding: 0.1rem;
   box-sizing: border-box;
   font-family: "Reem Kufi", sans-serif !important;
 }
@@ -15,7 +15,6 @@ img {
   margin: 0rem auto;
 }
 body {
-  padding: 1rem;
   max-width: 100%;
   overflow-x: hidden;
 }
@@ -178,7 +177,7 @@ nav {
   flex-direction: column;
   margin: 6rem 0rem;
 }
-.contact-form-container  {
+.contact-form-container {
   background-color: white;
   max-width: 700px;
   width: 100%;
